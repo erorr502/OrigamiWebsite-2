@@ -1,0 +1,75 @@
+.head{
+      
+    background-color:#ff0000;
+    border:dotted;
+     }
+  
+     .note{
+       background-color: red;
+       border: dotted;
+     }
+     .menu{
+        background-color: rgb(251, 255, 0);
+        border: dotted;
+     }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    height: 550px;
+    padding: 50px;
+    background-color:#f4a2f7;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    height: 550px;
+    padding: 50px;
+    background-color:#f4a2f7;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    height: 550px;
+    padding: 50px;
+    background-color:#f4a2f7;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    height: 550px;
+    padding: 50px;
+    background-color:#f4a2f7;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    height: 550px;
+    padding: 50px;
+    background-color:#f4a2f7;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    height: 550px;
+    padding: 50px;
+    background-color:#f4a2f7;
+  }
